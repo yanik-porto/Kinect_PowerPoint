@@ -1,0 +1,14 @@
+C:\Users\Yanik\Documents\Visual Studio 2013\Projects\PowerPointAddIn2\PowerPointAddIn2\bin\Debug\PowerPointAddIn2.dll
+C:\Users\Yanik\Documents\Visual Studio 2013\Projects\PowerPointAddIn2\PowerPointAddIn2\bin\Debug\PowerPointAddIn2.pdb
+C:\Users\Yanik\Documents\Visual Studio 2013\Projects\PowerPointAddIn2\PowerPointAddIn2\bin\Debug\PowerPointAddIn2.dll.manifest
+C:\Users\Yanik\Documents\Visual Studio 2013\Projects\PowerPointAddIn2\PowerPointAddIn2\bin\Debug\PowerPointAddIn2.vsto
+C:\Users\Yanik\Documents\Visual Studio 2013\Projects\PowerPointAddIn2\PowerPointAddIn2\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Yanik\Documents\Visual Studio 2013\Projects\PowerPointAddIn2\PowerPointAddIn2\bin\Debug\KinectMouseController.dll
+C:\Users\Yanik\Documents\Visual Studio 2013\Projects\PowerPointAddIn2\PowerPointAddIn2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Yanik\Documents\Visual Studio 2013\Projects\PowerPointAddIn2\PowerPointAddIn2\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Yanik\Documents\Visual Studio 2013\Projects\PowerPointAddIn2\PowerPointAddIn2\obj\Debug\PowerPointAddIn2.csprojResolveAssemblyReference.cache
+C:\Users\Yanik\Documents\Visual Studio 2013\Projects\PowerPointAddIn2\PowerPointAddIn2\obj\Debug\PowerPointAddIn2.Properties.Resources.resources
+C:\Users\Yanik\Documents\Visual Studio 2013\Projects\PowerPointAddIn2\PowerPointAddIn2\obj\Debug\PowerPointAddIn2.RubKinect.resources
+C:\Users\Yanik\Documents\Visual Studio 2013\Projects\PowerPointAddIn2\PowerPointAddIn2\obj\Debug\PowerPointAddIn2.csproj.GenerateResource.Cache
+C:\Users\Yanik\Documents\Visual Studio 2013\Projects\PowerPointAddIn2\PowerPointAddIn2\obj\Debug\PowerPointAddIn2.dll
+C:\Users\Yanik\Documents\Visual Studio 2013\Projects\PowerPointAddIn2\PowerPointAddIn2\obj\Debug\PowerPointAddIn2.pdb
